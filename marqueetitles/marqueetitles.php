@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Maquee titles
+ * Plugin Name:       Marquee titles
  * Description:       Show title of posts inside lovely marquee tag, before it's finally totally deprecated.
  * Version:           1.0
  * Author:            Camilo Villavicencio
