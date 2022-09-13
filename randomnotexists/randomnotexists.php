@@ -16,7 +16,7 @@ function random_notexist_get(){
     );
 
     $sel = rand(0,(count($notexist)-1));
-    $result ='<img src="'.$notexist[$sel][0].'"><br>This '.$notexist[$sel][1].' does not exist. ';
+    $result ='<div style="max-width:300px"><img src="'.$notexist[$sel][0].'"><br>This '.$notexist[$sel][1].' does not exist. </div>';
     return $result;
 
 }
